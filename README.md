@@ -158,7 +158,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para d
 
 ## ✍️ Autor
 
-Seu Nome - [@givanildo](https://github.com/givanildo)
+Givanildo - [@givanildo](https://github.com/givanildo)
 
 ## 🙏 Agradecimentos
 - https://github.com/FarmLogs/pysobus
